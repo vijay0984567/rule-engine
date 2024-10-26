@@ -116,3 +116,6 @@ Test the application by creating, combining, and evaluating rules. Handle cases 
 1. **Run the application**:
    ```bash
    npm start
+
+## Live Site
+The application is live at https://eng-rule.netlify.app/
